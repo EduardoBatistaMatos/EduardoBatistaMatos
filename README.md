@@ -1,16 +1,30 @@
-## Hi there 👋
+# Eduardo Batista Matos
 
-<!--
-**EduardoBatistaMatos/EduardoBatistaMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Infraestrutura** — Franca, SP
 
-Here are some ideas to get you started:
+[Uma frase direta sobre o que você faz ou o que te move profissionalmente.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,mongodb,aws,azure,git,github,prisma,nginx,jest,linux" />
+</p>
+
+---
+
+### Projetos
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**nome**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+| [**nome**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+| [**nome**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+
+---
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5E1ahE3mSIOnj5wzQhcfcw%3D%3D) · [seu@email.com](dudubmatos@gmail.com)
+
