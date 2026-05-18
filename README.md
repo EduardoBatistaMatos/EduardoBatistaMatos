@@ -26,5 +26,5 @@
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5E1ahE3mSIOnj5wzQhcfcw%3D%3D) · [dudubmatos@gmail.com](dudubmatos@gmail.com)
+[LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5E1ahE3mSIOnj5wzQhcfcw%3D%3D) · [dudubmatos@gmail.com](mailto:dudubmatos@gmail.com)
 
