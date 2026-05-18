@@ -3,7 +3,8 @@
 **Backend & Infraestrutura** — Franca, SP
 
 
-Desde 2023 mergulhei de cabeça no ciclo completo de desenvolvimento de software, do planejamento ao deploy. Atualmente trabalho como desenvolvedor backend focado em APIs, infraestrutura e cloud.
+Desde 2023 mergulhei de cabeça no ciclo completo de desenvolvimento de software, do planejamento ao deploy.
+Atualmente trabalho como desenvolvedor backend focado em APIs, infraestrutura e cloud.
 
 ---
 ### Tecnologias
