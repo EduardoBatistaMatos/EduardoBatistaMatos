@@ -15,17 +15,6 @@ Atualmente trabalho como desenvolvedor backend focado em APIs, infraestrutura e 
 
 ---
 
-### Projetos
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**AWS SQS**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
-| [**AWS Auto Scaling**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
-| [**AWS infrastructure**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
-| [**API in Azure**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
-
----
-
 ### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudubmatos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5E1ahE3mSIOnj5wzQhcfcw%3D%3D)
