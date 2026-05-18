@@ -2,14 +2,14 @@
 
 **Backend & Infraestrutura** — Franca, SP
 
-[Uma frase direta sobre o que você faz ou o que te move profissionalmente.]
+
 
 ---
 
 ### Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,mongodb,aws,azure,git,github,prisma,nginx,jest,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,mongodb,aws,azure,git,github,prisma,nginx,jest,linux,githubactions" />
 </p>
 
 ---
@@ -18,9 +18,10 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**nome**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
-| [**nome**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
-| [**nome**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+| [**AWS SQS**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+| [**AWS Auto Scaling**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+| [**AWS infrastructure**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
+| [**API in Azure**](https://github.com/username/repo) | O que o projeto faz em uma linha | `Tech` `Tech` |
 
 ---
 
